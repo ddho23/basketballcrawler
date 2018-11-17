@@ -26,3 +26,6 @@ DWS - defensive win shares
 WS - win shares
 
 WS / 48 - win shares per 48 minutes
+
+
+parallel scrape?
